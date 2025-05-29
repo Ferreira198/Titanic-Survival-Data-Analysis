@@ -20,3 +20,6 @@ Interactive notebook + dashboard visuals
 
 ## 📂 Filename: 
 http://localhost:8888/notebooks/Titanic%20Survival%20Prediction.ipynb
+
+## 📂 HTML File:
+file:///C:/Users/acer/Downloads/Beginner%20Level%20Projects/Titanic%20Survival%20Prediction.html
